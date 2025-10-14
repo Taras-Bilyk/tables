@@ -7,7 +7,7 @@ This project was made to revisit the basics of HTML and CSS layout.
 The site is dedicated to headers.
 
 ## Screenshots
-<img src="img/scr/scr_1.png" width="400" height="200">
+<img src="images/scr/scr_1.png" width="400" height="200">
 
 ## Technologies Used
 - HTML
