@@ -198,8 +198,6 @@ td{
 .wrapper .submenu_flex li:nth-child(7) a{
     border-bottom: 0;
 }
-.wrapper .submenu_flex li:nth-child(3) a{
-}
 .wrapper .submenu_flex li:nth-child(2) a,
 .wrapper .submenu_flex li:nth-child(4) a,
 .wrapper .submenu_flex li:nth-child(6) a{
@@ -394,4 +392,3 @@ td{
     padding-left: 59px;
     text-align: right;
 }
-
