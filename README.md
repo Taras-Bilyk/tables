@@ -15,7 +15,7 @@ The site is dedicated to headers.
 
 ## How to Run
 Just open the `index.html` file in any modern web browser.
-<div>Or visit the site here: <a href="https://taras-bilyk.github.io/Tables/">https://taras-bilyk.github.io/Tables//</a></div>
+<div>Or visit the site here: <a href="https://taras-bilyk.github.io/tables/">https://taras-bilyk.github.io/tables/</a></div>
 
 
 ## Project Structure
